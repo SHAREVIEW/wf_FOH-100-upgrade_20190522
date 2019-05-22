@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf_FOH-100 upgrade_20190522", "wf_FOH-100 upgrade_20190522\wf_FOH-100 upgrade_20190522.csproj", "{5D45E3CA-4B5D-43D8-96EF-1ACC0D1EA60C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D45E3CA-4B5D-43D8-96EF-1ACC0D1EA60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D45E3CA-4B5D-43D8-96EF-1ACC0D1EA60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D45E3CA-4B5D-43D8-96EF-1ACC0D1EA60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D45E3CA-4B5D-43D8-96EF-1ACC0D1EA60C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B34FB2F-5D53-47BD-AF2B-A52BCD1A773A}
+	EndGlobalSection
+EndGlobal
